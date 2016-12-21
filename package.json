@@ -1,0 +1,10 @@
+{
+  "name": "testing_yarn",
+  "version": "1.0.0",
+  "description": "yarn description",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
